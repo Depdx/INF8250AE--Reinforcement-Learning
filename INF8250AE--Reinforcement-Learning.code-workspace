@@ -1,8 +1,14 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "./assignement 1"
+        },
+        {
+            "path": "./assignement 2"
+        }
     ],
     "settings": {
         "cSpell.words": [
