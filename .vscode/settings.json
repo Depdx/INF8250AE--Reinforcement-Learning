@@ -1,6 +1,13 @@
 {
     "cSpell.words": [
         "argmax",
-        "Sarsa"
+        "dones",
+        "ndarray",
+        "optim",
+        "probs",
+        "Sarsa",
+        "Softmax",
+        "torchdist",
+        "unsqueeze"
     ]
 }
